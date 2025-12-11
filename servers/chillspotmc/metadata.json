@@ -1,0 +1,28 @@
+{
+    "id": "ChillSpotMC",
+    "name": "ChillSpotMC",
+    "website": "https://chillspotmc.it",
+    "addresses": [
+        "play.chillspotmc.it",
+        "chillspotmc.it"
+    ],
+    "primaryAddress": "chillspotmc.it",
+    "primaryColor": "#a200ff",
+    "secondaryColor": "#f700ff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
